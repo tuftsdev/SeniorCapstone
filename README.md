@@ -1,0 +1,1 @@
+Website for Senior Capstone at Tufts University Department of Computer Science.  Course is required for Computer Science majors in the School of Engineering.
